@@ -1,0 +1,186 @@
+$  15:06:00git log
+commit 2b7e5463a6e53cc977784fc7188c0071eb13c0ba (HEAD -> main, origin/main, origin/HEAD)
+Merge: 0c4290e ca8e9c9
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:57:16 2022 +0100
+
+    Exercise 4
+
+commit 0c4290e10c04374c909bd4a0f883ed095b8a49f1
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:56:34 2022 +0100
+
+    Exercise 4
+
+commit ca8e9c9791d40fb24b2dc83748e57f4cef19b710
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:52:31 2022 +0100
+
+    Create Exercise 4.md
+
+commit f668f774ac695f9516882f44af5eab1e9f839624
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:50:11 2022 +0100
+
+    Rename Exercise 3.md to Exercise 3/Exercise 3.md
+
+commit adca9c82cbe245b57fb4563787b32a74b5b8805e
+Merge: 82f668e 27d3880
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:48:02 2022 +0100
+
+    Exercise 3
+
+commit 82f668efbc6bb013f82f17a6072345129028ba8f
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:46:16 2022 +0100
+
+    Exercise 3
+
+commit 27d388006d4897912ae76a50393ff3545384a505
+...skipping...
+commit 2b7e5463a6e53cc977784fc7188c0071eb13c0ba (HEAD -> main, origin/main, origin/HEAD)
+Merge: 0c4290e ca8e9c9
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:57:16 2022 +0100
+
+    Exercise 4
+
+commit 0c4290e10c04374c909bd4a0f883ed095b8a49f1
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:56:34 2022 +0100
+
+    Exercise 4
+
+commit ca8e9c9791d40fb24b2dc83748e57f4cef19b710
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:52:31 2022 +0100
+
+    Create Exercise 4.md
+
+commit f668f774ac695f9516882f44af5eab1e9f839624
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:50:11 2022 +0100
+
+    Rename Exercise 3.md to Exercise 3/Exercise 3.md
+
+commit adca9c82cbe245b57fb4563787b32a74b5b8805e
+Merge: 82f668e 27d3880
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:48:02 2022 +0100
+
+    Exercise 3
+
+commit 82f668efbc6bb013f82f17a6072345129028ba8f
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:46:16 2022 +0100
+
+    Exercise 3
+
+commit 27d388006d4897912ae76a50393ff3545384a505
+...skipping...
+commit 2b7e5463a6e53cc977784fc7188c0071eb13c0ba (HEAD -> main, origin/main, origin/HEAD)
+Merge: 0c4290e ca8e9c9
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:57:16 2022 +0100
+
+    Exercise 4
+
+commit 0c4290e10c04374c909bd4a0f883ed095b8a49f1
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:56:34 2022 +0100
+
+    Exercise 4
+
+commit ca8e9c9791d40fb24b2dc83748e57f4cef19b710
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:52:31 2022 +0100
+
+    Create Exercise 4.md
+
+commit f668f774ac695f9516882f44af5eab1e9f839624
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:50:11 2022 +0100
+
+    Rename Exercise 3.md to Exercise 3/Exercise 3.md
+
+commit adca9c82cbe245b57fb4563787b32a74b5b8805e
+Merge: 82f668e 27d3880
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:48:02 2022 +0100
+
+    Exercise 3
+
+commit 82f668efbc6bb013f82f17a6072345129028ba8f
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:46:16 2022 +0100
+
+    Exercise 3
+
+commit 27d388006d4897912ae76a50393ff3545384a505
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Thu Sep 1 14:15:36 2022 +0100
+
+    Create Exercise 3.md
+
+commit 426875eb15d335c9b4bb9de29a7c53df8b463c7b
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 23:38:07 2022 +0100
+
+    Update Exercise 2.md
+
+commit f4d21189adf9f5eb6f28c40c99963ae52b8eb34e
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 23:08:42 2022 +0100
+
+    Create Exercise 2.md
+
+commit 807b22ae7d87a55a508acda9d974eb88cdc813a7
+Merge: c86f9e6 d857530
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 23:01:16 2022 +0100
+
+    created exercise.md in Exercise 1 Folder
+
+commit c86f9e6835898c8cde7ad3618200f64d2df03d24
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 22:55:12 2022 +0100
+
+    File containing Exercise 2
+
+commit d857530b88fdaf25f36ba6771f7c3b775c860714
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 22:50:17 2022 +0100
+
+    Rename Exercise 1.md to Exercise 1/Exercise 1.md
+
+commit 9cfcd307a63c8aa1064a5ceab5953ca0a3cef09f
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 22:31:09 2022 +0100
+
+    File containing Exercise 1
+
+commit 6e35f7e38dab796f9c7a296939af17547c446099
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 18:55:35 2022 +0100
+
+    Update and rename Exercise 1 to Exercise 1.md
+
+commit bcab7ef78d0adaf2ba491892eb354074419462ce
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 18:41:56 2022 +0100
+
+    Create Exercise 1
+
+commit 0ffa31f37f292649cb7f0b25eccb8f784cee064f
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 18:37:06 2022 +0100
+
+    Update README.md
+
+commit f1af0238e374cdedb9a1c7ab4ff7823f7de00dde
+Author: Saheed Anipupo <saheedanipupo@gmail.com>
+Date:   Tue Aug 30 18:27:48 2022 +0100
+
+    Initial commit
+(END)
