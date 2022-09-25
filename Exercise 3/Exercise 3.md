@@ -1,4 +1,4 @@
-## Exercise:
+## Exercise 3
 
 - Create 3 groups – admin, support & engineering and add the admin group to sudoers. 
 - Create a user in each of the groups. 
